@@ -10,7 +10,7 @@
         "dateAdded": "2019-11-11T22:21:37+00:00",
         "videos": [
           {
-            "url": "https://hbiptv.live/player/sakchotv/index.m3u8",
+            "url": "https://play.acwstream.com:7002/live/acw_01/index.m3u8",
             "quality": "HD",
             "videoType": "HLS"
           }
